@@ -27,9 +27,18 @@ O Microsoft Azure oferece uma gama vasta de serviços em nuvem. Os benefícios d
 
 # Resumo sobre os SLA Azure
 
- -O SLA (Service Level Agreement) refere-se ao Acordo de Nível de Serviço. É um contrato que define o nível de serviço esperado entre o Azure e seus clientes. 
- - O SLA especifica métricas-chave como disponibilidade, tempo de resposta, performance e uptime dos serviços oferecidos pela plataforma.
+- O SLA (Service Level Agreement) refere-se ao Acordo de Nível de Serviço. É um contrato que define o nível de serviço esperado entre o Azure e seus clientes. 
+- O SLA especifica métricas-chave como disponibilidade, tempo de resposta, performance e uptime dos serviços oferecidos pela plataforma.
 - Esses acordos garantem que os serviços do Azure, como máquinas virtuais, bancos de dados, redes e outros recursos, mantenham um certo percentual de disponibilidade, como 99,9% ou 99,99%, dependendo do serviço.
 - Se o Azure não cumprir o SLA prometido, os clientes podem ser elegíveis para compensações financeiras, como créditos de serviço.
 
 # Principais Serviços do Azure
+
+# Tipos de Serviços de Nuvem
+
+- IaaS (Infrastructure as a Service): Crie uma infraestrutura de TI de pagamento conforme o uso alugando servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais de um provedor de nuvem.
+- PaaS (Platform as a Service): Fornece um ambiente para a criação, o teste e a implantação de aplicativos de software, sem focar no gerenciamento da infraestrutura subjacente.
+- SaaS (Software as a Service): Aplicativos acessados diretamente via internet, sem necessidade de instalação local (como Office 365, por exemplo).
+
+# Rsponsabilidade Compartilhada
+
